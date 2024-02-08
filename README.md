@@ -1,5 +1,6 @@
-# Single-cell_RNAseq_Correlation_Analysis
-Correlations of genes with piRNA pathway genes using single-cell RNA-seq datasets from the Drosophila ovary. Co-expression analysis encompassing total ovary and germline ovarian cluster-specific correlation of transcription factors with the germline piRNA pathway genes
+# Single-cell_RNAseq_Correlation_Analysis. Correlations analysis of genes across all cells and within specific cell clusters of single-cell RNA-seq datasets. The script can be used to predict transcription factors controlling genes of interest within specific cell clusters (e.g. gene-regulatory factors within germ cell clusters that regulate the germline genes and piRNA pathway genes in the Drosophila ovary).
+
+# Steps below determine co-expression correlations of genes with piRNA pathway genes using single-cell RNA-seq datasets from the Drosophila larva ovary encompassing total ovary data as well as ovarian germline-specific correlations
 
 [![DOI](https://zenodo.org/badge/{754750835}.svg)](https://zenodo.org/badge/latestdoi/{754750835})
 
