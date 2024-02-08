@@ -3,7 +3,7 @@ Correlations of genes with piRNA pathway genes using single-cell RNA-seq dataset
 
 [![DOI](https://zenodo.org/badge/{754750835}.svg)](https://zenodo.org/badge/latestdoi/{754750835})
 
-# 1) Total ovary (larva example) single-cell RNA-seq data correlations
+# 1) Total ovary (larva) single-cell RNA-seq data correlations
 
 library(dplyr)
 library(Seurat)
